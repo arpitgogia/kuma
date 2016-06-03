@@ -1,10 +1,10 @@
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: MDN 2016.0\n"
 "Report-Msgid-Bugs-To: dev-mdn@lists.mozilla.org\n"
 "POT-Creation-Date: 2016-05-26 09:18-0700\n"
-"PO-Revision-Date: 2016-04-21 19:10+0000\n"
+"PO-Revision-Date: 2016-05-31 07:17+0000\n"
 "Last-Translator: YFdyh000 <yfdyh000@gmail.com>\n"
 "Language-Team: Chinese (Simplified) https://pontoon.mozilla.org/zh_CN/\n"
 "Language: zh_CN\n"
@@ -41,11 +41,11 @@ msgstr "不再询问"
 
 #: kuma/static/js/helpfulness.js:45
 msgid "Thanks for your feedback!"
-msgstr ""
+msgstr "感谢您的反馈！"
 
 #: kuma/static/js/helpfulness.js:54
 msgid "We won't bug you again."
-msgstr ""
+msgstr "我们不会再打扰您。"
 
 #: kuma/static/js/helpfulness.js:59
 msgid "Translate it into my language"
@@ -176,9 +176,8 @@ msgid "saved"
 msgstr "已保存"
 
 #: kuma/static/js/wiki-edit.js:609
-#, fuzzy
 msgid "autosaved"
-msgstr "已保存"
+msgstr "自动保存"
 
 #: kuma/static/js/wiki-edit.js:618
 msgid "published"
@@ -199,7 +198,7 @@ msgstr "自动保存已禁用。"
 #: kuma/static/js/wiki-samples.js:97
 #, python-format
 msgid "Open in %(site)s "
-msgstr ""
+msgstr "在 %(site)s 中打开"
 
 #: kuma/static/js/wiki-tags-edit.js:48
 msgid "New tag..."
